@@ -10,3 +10,7 @@ SnippetSource lets you organise your favorite pieces of code, scripts, thoughts,
 
 ![SnippetSource](https://github.com/beNative/lazarus/blob/master/projects/snippetsource/images/SnippetSource1.png)
 
+![SnippetSource](https://github.com/beNative/lazarus/blob/master/projects/snippetsource/images/SnippetSource.EditorMenu.png)
+
+![SnippetSource](https://github.com/beNative/lazarus/blob/master/projects/snippetsource/images/SnippetSource.ConsoleOutput.png)
+
