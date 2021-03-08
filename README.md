@@ -1,8 +1,13 @@
 # SnippetSource
 
-SnippetSource lets you organise your favorite pieces of code, scripts, thoughts, notes or other documents in a user definable tree structure. Everything is stored in a portable SQLite database.
+SnippetSource lets you organise your favorite pieces of code, scripts, thoughts, notes or other documents in a user definable tree structure. 
+All data is stored in a simple yet powerful SQLite database which provides you with immediate access to your stored snippets.   
 
-It shares the editor module which is also used in my [Notepas](https://github.com/beNative/Notepas) project.
+Create new folders and documents, or you can drag and drop one or multiple files into the treeview to create them as snippets in SnippetSource. Nodes can be moved freely by dragging them to another folder. 
+
+It uses the text editor module which was developed for my [Notepas](https://github.com/beNative/Notepas) project, which is in turn based on the SynEdit components used by Lazarus for its source code editor. This has the convenient side effect that the capabillities of the text editor will increase as Lazarus evolves.
+
+My intention is to keep the user interface as clean and fast as possible so users can focus more on the content rather than confront them with an overwhelming and bloated user interface.
 
 ![SnippetSource](https://github.com/beNative/lazarus/blob/master/projects/snippetsource/images/SnippetSource2.png)
 
@@ -13,6 +18,8 @@ It shares the editor module which is also used in my [Notepas](https://github.co
 ![SnippetSource](https://github.com/beNative/lazarus/blob/master/projects/snippetsource/images/SnippetSource.png)
 
 ![SnippetSource](https://github.com/beNative/lazarus/blob/master/projects/snippetsource/images/SnippetSource1.png)
+
+Since version 3 the possibility to execute script code was added. Snippets that represent script code can directly be executed.
 
 ![SnippetSource](https://github.com/beNative/lazarus/blob/master/projects/snippetsource/images/SnippetSource.ConsoleOutput.png)
 
