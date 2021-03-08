@@ -27,7 +27,7 @@ Images can be dragged and dropped into both the treeviewer and the Richeditor.
 
 ## Execute scripts
 
-Since version 3 the possibility to execute script code was added. Snippets that represent script code can directly be executed.
+Since version 3 the possibility to execute script code was added. Snippets that represent script code can directly be executed. Output is redirected to an interactive ANSI compatible console.
 
 ![SnippetSource](https://github.com/beNative/lazarus/blob/master/projects/snippetsource/images/SnippetSource.ConsoleOutput.png)
 
