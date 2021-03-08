@@ -9,6 +9,12 @@ It uses the text editor module which was developed for my [Notepas](https://gith
 
 My intention is to keep the user interface as clean and fast as possible so users can focus more on the content rather than confront them with an overwhelming and bloated user interface.
 
+## Project sources and releases
+
+The sources are maintained on this location, together with all dependencies needed to make a new build: http://github.com/beNative/lazarus/tree/master/projects/notepas
+
+New [builds](https://github.com/beNative/SnippetSource/releases) will be released in this spot.
+
 ## Code snippets
 
 ![SnippetSource](https://github.com/beNative/lazarus/blob/master/projects/snippetsource/images/SnippetSource2.png)
