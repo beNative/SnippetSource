@@ -15,6 +15,8 @@ My intention is to keep the user interface as clean and fast as possible so user
 
 ![SnippetSource](https://github.com/beNative/lazarus/blob/master/projects/snippetsource/images/SnippetSource.EditorMenu.png)
 
+Images can be dragged and dropped into both the treeviewer and the Richeditor.
+
 ![SnippetSource](https://github.com/beNative/lazarus/blob/master/projects/snippetsource/images/SnippetSource.png)
 
 ![SnippetSource](https://github.com/beNative/lazarus/blob/master/projects/snippetsource/images/SnippetSource1.png)
