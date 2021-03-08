@@ -31,3 +31,6 @@ Since version 3 the possibility to execute script code was added. Snippets that 
 
 ![SnippetSource](https://github.com/beNative/lazarus/blob/master/projects/snippetsource/images/SnippetSource.ConsoleOutput.png)
 
+## SQLite database
+
+![ERD](https://github.com/beNative/lazarus/blob/master/projects/snippetsource/documents/snippetsource-snippets.png)
