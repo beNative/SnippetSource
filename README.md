@@ -11,7 +11,8 @@ My intention is to keep the user interface as clean and fast as possible so user
 
 ## Project sources and releases
 
-The sources are maintained on this location, together with all dependencies needed to make a new build: http://github.com/beNative/lazarus/tree/master/projects/snippetsource
+The sources are maintained on this location, together with all dependencies needed to make a new build: 
+http://github.com/beNative/lazarus/tree/master/projects/snippetsource
 
 New [builds](https://github.com/beNative/SnippetSource/releases) will be released in this spot.
 
