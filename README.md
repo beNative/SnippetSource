@@ -1,7 +1,7 @@
 # SnippetSource
 
 **SnippetSource** lets you organise your favorite pieces of code, scripts, thoughts, notes or other documents in a user definable tree structure. 
-All data is stored in a simple yet powerful **SQLite** database which provides you with immediate access to your stored snippets.   
+All data is stored in a simple yet powerful **SQLite** database which provides you immediate access to your stored snippets.   
 
 Create new folders and documents, or you can drag and drop one or multiple files into the treeview to create them as snippets in SnippetSource. Nodes can be moved freely by dragging them to another folder. 
 
