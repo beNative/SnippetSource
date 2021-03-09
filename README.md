@@ -5,7 +5,7 @@ All data is stored in a simple yet powerful **SQLite** database which provides y
 
 Create new folders and documents, or you can drag and drop one or multiple files into the treeview to create them as snippets in SnippetSource. Nodes can be moved freely by dragging them to another folder. 
 
-It uses the text editor module which was developed for my [Notepas](https://github.com/beNative/Notepas) project, which is in turn based on the SynEdit components used by Lazarus for its source code editor. This has the convenient side effect that the capabillities of the text editor will increase as Lazarus evolves.
+It uses the text editor module which was developed for my [Notepas](https://github.com/beNative/Notepas) project, which is in turn based on the SynEdit components used by Lazarus for its source code editor. This has the convenient side effect that the capabillities of the text editor grow as Lazarus evolves.
 
 My intention is to keep the user interface as clean and fast as possible so users can focus more on the content rather than confront them with an overwhelming and bloated user interface.
 
