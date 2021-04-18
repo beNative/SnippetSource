@@ -40,4 +40,6 @@ Since version 3 the possibility to execute script code was added. Snippets that 
 
 ## SQLite database
 
+Any SQLite database administrator tool can be used to get access to the database.
+
 ![ERD](https://github.com/beNative/lazarus/blob/master/projects/snippetsource/documents/snippetsource-snippets.png)
